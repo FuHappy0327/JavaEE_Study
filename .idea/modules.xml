@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/javaEETest_SpringAndMybatisForXML.iml" filepath="$PROJECT_DIR$/javaEETest_SpringAndMybatisForXML.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaEETest_SpringBootAndMyBatis/javaEETest_SpringBootAndMyBatis.iml" filepath="$PROJECT_DIR$/javaEETest_SpringBootAndMyBatis/javaEETest_SpringBootAndMyBatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaEETest_SpringBootAndSSMOfTrain/javaEETest_SpringBootAndSSMOfTrain.iml" filepath="$PROJECT_DIR$/javaEETest_SpringBootAndSSMOfTrain/javaEETest_SpringBootAndSSMOfTrain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaEETest_SpringBootMyAndBatisPlus/javaEETest_SpringBootMyAndBatisPlus.iml" filepath="$PROJECT_DIR$/javaEETest_SpringBootMyAndBatisPlus/javaEETest_SpringBootMyAndBatisPlus.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaEETest_SpringBootTest/javaEETest_SpringBootTest.iml" filepath="$PROJECT_DIR$/javaEETest_SpringBootTest/javaEETest_SpringBootTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaEETest_SpringForAnnotation.iml" filepath="$PROJECT_DIR$/javaEETest_SpringForAnnotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaEETest_SpringForXML.iml" filepath="$PROJECT_DIR$/javaEETest_SpringForXML.iml" />

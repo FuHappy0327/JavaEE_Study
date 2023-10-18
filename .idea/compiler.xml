@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -11,6 +12,7 @@
         <module name="javaEETest_SpringAndMybatisForXML" />
         <module name="javaEETest_SpringAndMybatisForAnnotation" />
         <module name="javaEETest_SpringBootAndSSMOfTrain" />
+        <module name="javaEETest_SpringBootMyAndBatisPlus" />
         <module name="AOPTestForAnnotation" />
         <module name="javaEETest_SpringBootAndMyBatis" />
         <module name="javaEETest_SpringMvcForAnnotation" />
@@ -31,20 +33,22 @@
       <module name="javaEETest_SpringAndMybatisForXML" target="1.8" />
       <module name="javaEETest_SpringBootAndMyBatis" target="17" />
       <module name="javaEETest_SpringBootAndSSMOfTrain" target="17" />
+      <module name="javaEETest_SpringBootMyAndBatisPlus" target="17" />
       <module name="javaEETest_SpringBootTest" target="17" />
       <module name="javaEETest_SpringForAnnotation" target="17" />
       <module name="javaEETest_SpringForXML" target="17" />
       <module name="javaEETest_SpringMvcForAnnotation" target="17" />
       <module name="javaEETest_SpringMvcRequestAndResponce" target="1.8" />
       <module name="javaEETest_SSMTestOfTrain" target="1.8" />
-      <module name="MyBatisForAnnotation" target="8" />
-      <module name="MybatisForXML" target="8" />
+      <module name="MyBatisForAnnotation" target="1.5" />
+      <module name="MybatisForXML" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="javaEETest_SpringBootAndMyBatis" options="-parameters" />
       <module name="javaEETest_SpringBootAndSSMOfTrain" options="-parameters" />
+      <module name="javaEETest_SpringBootMyAndBatisPlus" options="-parameters" />
       <module name="javaEETest_SpringBootTest" options="-parameters" />
     </option>
   </component>
